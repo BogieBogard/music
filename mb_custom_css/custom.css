@@ -15,3 +15,7 @@
 .googleFontFiraMona {
     font-family: 'Fira Mono', monospace;
 }
+
+.customPaddingRight {
+    padding-right: 40px;
+}
