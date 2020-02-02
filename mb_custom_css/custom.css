@@ -34,3 +34,7 @@
         padding-top: 50px;
     }
 }
+
+.button-small {
+    min-width: 17rem;
+}
